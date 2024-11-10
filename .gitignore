@@ -1,3 +1,6 @@
+# Auto-generated journal files made by the app
+journal*.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
